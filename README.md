@@ -67,6 +67,9 @@
 
 [onedrived-dev](https://github.com/xybu/onedrived-dev) Python 编写的 Linux 版 OneDrive 客户端
 
+
+[onedrive](https://github.com/abraunegg/onedrive) Linux 版 OneDrive 客户端, fork 自 skilion 的项目
+
 [onedrive](https://github.com/skilion/onedrive) Linux 版 OneDrive 客户端
 
 [ss-panel-and-ss-py-mu](https://github.com/mmmwhy/ss-panel-and-ss-py-mu/tree/master) ss-panel 魔改版
