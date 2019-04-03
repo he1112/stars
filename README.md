@@ -1,6 +1,49 @@
 # stars
 记录一些自己star的项目
 
+[etcher](https://github.com/balena-io/etcher) 镜像刻录工具
+
+[FluentTerminal](https://github.com/felixse/FluentTerminal) UWP 终端
+
+[winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) WordPress 版微信小程序
+
+[UnCSS](https://github.com/uncss/uncss) 删除没有使用的 CSS
+
+[python-uncompyle6](https://github.com/rocky/python-uncompyle6) python 反编译
+
+[OneList](https://github.com/0oVicero0/OneList) 基于 python 的 onedrive 目录程序
+
+[libpku](https://github.com/lib-pku/libpku) 北京大学课程资料整理
+
+[zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划
+
+[XTeamLView](https://github.com/binbibi/XTeamLView) 切换 Teamview id
+
+[nps](https://github.com/cnlh/nps) 内网穿透
+
+[code-server](https://github.com/codercom/code-server) vs code 在线版
+
+[music-dl](https://github.com/0xHJK/music-dl) python 版多平台搜索和下载歌曲
+
+[Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) 模仿 QQ 音乐的在线播放器
+
+[takeover.sh](https://github.com/marcan/takeover.sh) 清空，重装 Linux 的脚本
+
+[instantbox](https://github.com/instantbox/instantbox) 快速启动一个网页版的 Linux 系统
+
+[The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh) The Flask Mega-Tutorial 中文翻译
+
+[programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 程序员找工作黑名单
+
+[spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) Spring Boot 学习示例
+
+
+
+
+
+
+
+
 [blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial) 区块链教程
 
 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) intellij 的 solarized 主题
@@ -121,4 +164,3 @@
 [Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) 百度贴吧云签到
 
 [DualBootPatcher](https://github.com/chenxiaolong/DualBootPatcher) 安卓双系统
-
